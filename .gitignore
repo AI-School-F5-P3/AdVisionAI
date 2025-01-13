@@ -1,0 +1,21 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Datos y modelos
+data/raw/*
+data/processed/*
+models/*.pt
+
+# Notebooks
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
