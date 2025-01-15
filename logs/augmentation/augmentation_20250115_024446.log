@@ -1,0 +1,7 @@
+2025-01-15 02:44:46,523 - INFO - Copiando imágenes originales...
+2025-01-15 02:44:46,910 - INFO - Iniciando proceso de augmentación...
+2025-01-15 02:44:54,441 - INFO - === Informe de Augmentación ===
+2025-01-15 02:44:54,443 - INFO - Marca: corte_ingles
+2025-01-15 02:44:54,452 - INFO - Imágenes originales: 53
+2025-01-15 02:44:54,453 - INFO - Augmentaciones creadas: 0
+2025-01-15 02:44:54,460 - INFO - Total imágenes: 53

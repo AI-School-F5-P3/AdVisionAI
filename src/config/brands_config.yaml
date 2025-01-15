@@ -1,0 +1,15 @@
+corte_ingles:
+  num_augmentations: 5
+  augmentation_params:
+    rotate_limit: 15
+    crop_min_height: 250
+    crop_max_height: 300
+    cutout_holes: 8
+    cutout_size: 20
+  transformations:
+    rotate: true
+    flip: true
+    brightness: true
+    noise: true
+    scale: true
+    cutout: true

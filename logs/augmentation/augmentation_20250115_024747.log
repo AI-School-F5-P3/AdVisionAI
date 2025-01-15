@@ -1,0 +1,7 @@
+2025-01-15 02:47:47,886 - INFO - Limpiando directorio de salida: data\processed\corte_ingles\train_augmented
+2025-01-15 02:47:47,910 - INFO - Copiando imágenes originales...
+2025-01-15 02:47:48,304 - INFO - Iniciando proceso de augmentación...
+2025-01-15 02:47:50,645 - INFO - === Informe de Augmentación ===
+2025-01-15 02:47:50,648 - INFO - Imágenes originales: 53
+2025-01-15 02:47:50,648 - INFO - Augmentaciones creadas: 0
+2025-01-15 02:47:50,649 - INFO - Total imágenes: 53

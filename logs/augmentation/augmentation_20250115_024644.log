@@ -1,0 +1,6 @@
+2025-01-15 02:46:44,485 - INFO - Copiando imágenes originales...
+2025-01-15 02:46:45,073 - INFO - Iniciando proceso de augmentación...
+2025-01-15 02:46:53,603 - INFO - === Informe de Augmentación ===
+2025-01-15 02:46:53,608 - INFO - Imágenes originales: 53
+2025-01-15 02:46:53,609 - INFO - Augmentaciones creadas: 0
+2025-01-15 02:46:53,616 - INFO - Total imágenes: 53

@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: docker/development/Dockerfile
+    volumes:
+      - .:/app
+    ports:
+      - "8080:8000"  # Cambiamos 8000 por 8080
+      - "8889:8888"  # Cambiamos 8888 por 8889
+    environment:
+      - PYTHONPATH=/app
+    tty: true
+    stdin_open: true
+    working_dir: /app
+    command: /bin/bash
