@@ -1,0 +1,7 @@
+path: data/yolo  # ruta del dataset
+train: images/train  # ruta relativa a las imágenes de entrenamiento
+val: images/val      # ruta relativa a las imágenes de validación
+test: images/test    # ruta relativa a las imágenes de prueba
+
+nc: 1  # número de clases
+names: ['corte_ingles']  # nombre de las clases

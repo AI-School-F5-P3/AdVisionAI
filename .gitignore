@@ -1,21 +1,28 @@
-@"
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.class
 venv/
 .env
 
 # Datos y modelos
 data/raw/*
 data/processed/*
-models/*.pt
+data/test/images/*
+data/yolo/images/*
+datasets/*
+models/trained/*.pt
+*.zip
 
-# Notebooks
-.ipynb_checkpoints
-notebooks/.ipynb_checkpoints
+# Resultados y logs
+runs/*
+results/*
+logs/*
 
 # IDEs
 .vscode/
 .idea/
-"@ | Out-File -FilePath .gitignore -Encoding utf8
+
+# Sistema
+.DS_Store
+Thumbs.db

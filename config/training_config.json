@@ -1,0 +1,8 @@
+{
+    "epochs": 100,
+    "imgsz": 300,
+    "batch": 16,
+    "device": "cuda",
+    "project": "corte_ingles_detection",
+    "name": "run1"
+}
