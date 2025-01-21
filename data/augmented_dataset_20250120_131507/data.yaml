@@ -1,0 +1,12 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: bershka
+  1: corte_ingles
+  2: desigual
+  3: mango
+  4: stradivarius
+  5: women_secret
+  6: zara
