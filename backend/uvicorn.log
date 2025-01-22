@@ -1,0 +1,477 @@
+2025-01-21 21:41:25,147 - uvicorn.error - INFO - Started server process [29288]
+2025-01-21 21:41:25,147 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-21 21:41:25,159 - uvicorn.error - INFO - Application startup complete.
+2025-01-21 21:41:25,160 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-21 21:43:17,312 - uvicorn.access - INFO - 127.0.0.1:57285 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 21:43:27,911 - uvicorn.access - INFO - 127.0.0.1:57295 - "POST /api/v1/detection/detect/image HTTP/1.1" 401
+2025-01-21 21:48:41,445 - uvicorn.access - INFO - 127.0.0.1:57543 - "POST /api/v1/auth/register HTTP/1.1" 200
+2025-01-21 21:49:30,799 - uvicorn.access - INFO - 127.0.0.1:57579 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 21:49:40,020 - uvicorn.access - INFO - 127.0.0.1:57583 - "POST /api/v1/detection/detect/image HTTP/1.1" 401
+2025-01-21 22:03:30,604 - uvicorn.access - INFO - 127.0.0.1:49193 - "POST /token HTTP/1.1" 404
+2025-01-21 22:04:13,852 - uvicorn.access - INFO - 127.0.0.1:49221 - "POST /token HTTP/1.1" 404
+2025-01-21 22:05:38,079 - uvicorn.access - INFO - 127.0.0.1:49268 - "POST /token HTTP/1.1" 404
+2025-01-21 22:06:11,051 - uvicorn.access - INFO - 127.0.0.1:49296 - "POST /api/v1/auth/register HTTP/1.1" 400
+2025-01-21 22:07:17,788 - uvicorn.access - INFO - 127.0.0.1:49338 - "POST /token HTTP/1.1" 404
+2025-01-21 22:07:29,426 - uvicorn.access - INFO - 127.0.0.1:49345 - "POST /token HTTP/1.1" 404
+2025-01-21 22:07:30,471 - uvicorn.access - INFO - 127.0.0.1:49345 - "POST /token HTTP/1.1" 404
+2025-01-21 22:07:34,646 - uvicorn.access - INFO - 127.0.0.1:49345 - "POST /token HTTP/1.1" 404
+2025-01-21 22:07:38,954 - uvicorn.access - INFO - 127.0.0.1:49345 - "POST /token HTTP/1.1" 404
+2025-01-21 22:09:19,683 - uvicorn.access - INFO - 127.0.0.1:49819 - "POST /token HTTP/1.1" 404
+2025-01-21 22:09:26,186 - uvicorn.access - INFO - 127.0.0.1:49829 - "POST /api/v1/detection/detect/image HTTP/1.1" 401
+2025-01-21 22:10:59,548 - uvicorn.access - INFO - 127.0.0.1:50067 - "POST /token HTTP/1.1" 404
+2025-01-21 22:11:01,299 - uvicorn.access - INFO - 127.0.0.1:50067 - "POST /token HTTP/1.1" 404
+2025-01-21 22:11:14,897 - uvicorn.access - INFO - 127.0.0.1:50078 - "GET /docs HTTP/1.1" 200
+2025-01-21 22:11:15,285 - uvicorn.access - INFO - 127.0.0.1:50078 - "GET /openapi.json HTTP/1.1" 200
+2025-01-21 22:11:35,004 - uvicorn.access - INFO - 127.0.0.1:50096 - "POST /token HTTP/1.1" 404
+2025-01-21 22:11:56,829 - uvicorn.access - INFO - 127.0.0.1:50108 - "POST /api/v1/auth/register HTTP/1.1" 200
+2025-01-21 22:12:34,811 - uvicorn.access - INFO - 127.0.0.1:50131 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:12:57,380 - uvicorn.access - INFO - 127.0.0.1:50143 - "POST /token HTTP/1.1" 404
+2025-01-21 22:12:59,191 - uvicorn.access - INFO - 127.0.0.1:50143 - "POST /token HTTP/1.1" 404
+2025-01-21 22:13:02,836 - uvicorn.access - INFO - 127.0.0.1:50143 - "POST /token HTTP/1.1" 404
+2025-01-21 22:13:03,726 - uvicorn.access - INFO - 127.0.0.1:50143 - "POST /token HTTP/1.1" 404
+2025-01-21 22:14:37,856 - uvicorn.access - INFO - 127.0.0.1:50297 - "POST /token HTTP/1.1" 404
+2025-01-21 22:15:47,788 - uvicorn.access - INFO - 127.0.0.1:50341 - "POST /token HTTP/1.1" 404
+2025-01-21 22:17:23,309 - uvicorn.access - INFO - 127.0.0.1:50392 - "POST /token HTTP/1.1" 404
+2025-01-21 22:17:25,317 - uvicorn.access - INFO - 127.0.0.1:50392 - "POST /token HTTP/1.1" 404
+2025-01-21 22:26:01,985 - uvicorn.access - INFO - 127.0.0.1:50799 - "POST /token HTTP/1.1" 404
+2025-01-21 22:26:05,959 - uvicorn.access - INFO - 127.0.0.1:50799 - "GET /docs HTTP/1.1" 200
+2025-01-21 22:26:06,153 - uvicorn.access - INFO - 127.0.0.1:50799 - "GET /openapi.json HTTP/1.1" 200
+2025-01-21 22:26:27,800 - uvicorn.access - INFO - 127.0.0.1:50821 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:26:49,711 - uvicorn.access - INFO - 127.0.0.1:50838 - "POST /token HTTP/1.1" 404
+2025-01-21 22:30:10,213 - uvicorn.error - INFO - Shutting down
+2025-01-21 22:30:10,321 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-21 22:30:10,322 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-21 22:30:10,322 - uvicorn.error - INFO - Finished server process [29288]
+2025-01-21 22:34:42,245 - uvicorn.error - INFO - Started server process [9836]
+2025-01-21 22:34:42,246 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-21 22:34:42,253 - uvicorn.error - INFO - Application startup complete.
+2025-01-21 22:34:42,254 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-21 22:35:36,911 - uvicorn.access - INFO - 127.0.0.1:57472 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:36:00,765 - uvicorn.access - INFO - 127.0.0.1:57491 - "POST /token HTTP/1.1" 404
+2025-01-21 22:36:01,907 - uvicorn.access - INFO - 127.0.0.1:57491 - "POST /token HTTP/1.1" 404
+2025-01-21 22:36:03,926 - uvicorn.access - INFO - 127.0.0.1:57491 - "POST /token HTTP/1.1" 404
+2025-01-21 22:36:19,150 - uvicorn.access - INFO - 127.0.0.1:57507 - "POST /api/v1/detection/detect/image HTTP/1.1" 401
+2025-01-21 22:39:57,877 - uvicorn.access - INFO - 127.0.0.1:57674 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:40:13,642 - uvicorn.access - INFO - 127.0.0.1:57685 - "POST /token HTTP/1.1" 404
+2025-01-21 22:40:15,470 - uvicorn.access - INFO - 127.0.0.1:57685 - "POST /token HTTP/1.1" 404
+2025-01-21 22:40:20,960 - uvicorn.access - INFO - 127.0.0.1:57688 - "GET /docs HTTP/1.1" 200
+2025-01-21 22:40:21,280 - uvicorn.access - INFO - 127.0.0.1:57688 - "GET /openapi.json HTTP/1.1" 200
+2025-01-21 22:40:44,318 - uvicorn.access - INFO - 127.0.0.1:57700 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:41:02,549 - uvicorn.access - INFO - 127.0.0.1:57717 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:41:27,886 - uvicorn.access - INFO - 127.0.0.1:57730 - "POST /api/v1/detection/detect/image HTTP/1.1" 500
+2025-01-21 22:41:27,886 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 187, in __call__
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\contextlib.py", line 222, in __aexit__
+    await self.gen.athrow(typ, value, traceback)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 35, in contextmanager_in_threadpool
+    raise e
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 27, in contextmanager_in_threadpool
+    yield await run_in_threadpool(cm.__enter__)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\backend\app\api\detection.py", line 26, in detect_image
+    detection_dir = Path(f"storage/detections/{current_user.id}/{datetime.now().strftime('%Y%m%d_%H%M%S')}")
+                                                                 ^^^^^^^^
+NameError: name 'datetime' is not defined
+2025-01-21 22:44:43,514 - uvicorn.access - INFO - 127.0.0.1:57857 - "POST /api/v1/detection/detect/image HTTP/1.1" 500
+2025-01-21 22:44:43,515 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 187, in __call__
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\contextlib.py", line 222, in __aexit__
+    await self.gen.athrow(typ, value, traceback)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 35, in contextmanager_in_threadpool
+    raise e
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 27, in contextmanager_in_threadpool
+    yield await run_in_threadpool(cm.__enter__)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\backend\app\api\detection.py", line 26, in detect_image
+    # Crear directorios de almacenamiento
+                                         
+NameError: name 'datetime' is not defined
+2025-01-21 22:44:52,432 - uvicorn.access - INFO - 127.0.0.1:57866 - "GET /docs HTTP/1.1" 200
+2025-01-21 22:44:52,659 - uvicorn.access - INFO - 127.0.0.1:57866 - "GET /openapi.json HTTP/1.1" 200
+2025-01-21 22:45:03,983 - uvicorn.access - INFO - 127.0.0.1:57874 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:45:18,999 - uvicorn.access - INFO - 127.0.0.1:57886 - "POST /api/v1/detection/detect/image HTTP/1.1" 500
+2025-01-21 22:45:19,000 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 187, in __call__
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\contextlib.py", line 222, in __aexit__
+    await self.gen.athrow(typ, value, traceback)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 35, in contextmanager_in_threadpool
+    raise e
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 27, in contextmanager_in_threadpool
+    yield await run_in_threadpool(cm.__enter__)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\backend\app\api\detection.py", line 26, in detect_image
+    # Crear directorios de almacenamiento
+                                         
+NameError: name 'datetime' is not defined
+2025-01-21 22:50:05,196 - uvicorn.error - INFO - Started server process [31664]
+2025-01-21 22:50:05,197 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-21 22:50:05,205 - uvicorn.error - INFO - Application startup complete.
+2025-01-21 22:50:05,207 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-21 22:50:10,880 - uvicorn.access - INFO - 127.0.0.1:65028 - "GET /docs HTTP/1.1" 200
+2025-01-21 22:50:12,217 - uvicorn.access - INFO - 127.0.0.1:65028 - "GET /openapi.json HTTP/1.1" 200
+2025-01-21 22:50:38,286 - uvicorn.access - INFO - 127.0.0.1:65059 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:51:24,655 - uvicorn.access - INFO - 127.0.0.1:60753 - "POST /api/v1/detection/detect/image HTTP/1.1" 401
+2025-01-21 22:51:41,679 - uvicorn.access - INFO - 127.0.0.1:54339 - "POST /api/v1/detection/detect/image HTTP/1.1" 401
+2025-01-21 22:51:58,897 - uvicorn.access - INFO - 127.0.0.1:54349 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 22:52:08,509 - uvicorn.access - INFO - 127.0.0.1:54349 - "POST /api/v1/detection/detect/image HTTP/1.1" 200
+2025-01-21 23:17:18,271 - uvicorn.access - INFO - 127.0.0.1:56158 - "POST /api/v1/detection/detect/video HTTP/1.1" 401
+2025-01-21 23:18:02,886 - uvicorn.access - INFO - 127.0.0.1:56196 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 23:18:27,224 - uvicorn.access - INFO - 127.0.0.1:56218 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 23:19:02,874 - uvicorn.access - INFO - 127.0.0.1:56218 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-21 23:27:08,795 - uvicorn.error - INFO - Shutting down
+2025-01-21 23:27:08,903 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-21 23:27:08,905 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-21 23:27:08,906 - uvicorn.error - INFO - Finished server process [31664]
+2025-01-21 23:34:47,179 - uvicorn.error - INFO - Started server process [35120]
+2025-01-21 23:34:47,180 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-21 23:34:47,187 - uvicorn.error - INFO - Application startup complete.
+2025-01-21 23:34:47,188 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-21 23:36:09,974 - uvicorn.access - INFO - 127.0.0.1:55592 - "GET /docs HTTP/1.1" 200
+2025-01-21 23:36:10,264 - uvicorn.access - INFO - 127.0.0.1:55592 - "GET /openapi.json HTTP/1.1" 200
+2025-01-21 23:36:33,841 - uvicorn.access - INFO - 127.0.0.1:55605 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 23:37:56,894 - uvicorn.access - INFO - 127.0.0.1:55665 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-21 23:42:20,288 - uvicorn.access - INFO - 127.0.0.1:55687 - "POST /api/v1/detection/detect/video HTTP/1.1" 200
+2025-01-21 23:55:18,211 - uvicorn.error - INFO - Shutting down
+2025-01-21 23:55:18,321 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-21 23:55:18,321 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-21 23:55:18,321 - uvicorn.error - INFO - Finished server process [35120]
+2025-01-22 00:04:05,381 - uvicorn.error - INFO - Started server process [13572]
+2025-01-22 00:04:05,382 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-22 00:04:05,388 - uvicorn.error - INFO - Application startup complete.
+2025-01-22 00:04:05,389 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-22 00:08:28,237 - uvicorn.access - INFO - 127.0.0.1:51911 - "GET /docs HTTP/1.1" 200
+2025-01-22 00:08:28,421 - uvicorn.access - INFO - 127.0.0.1:51911 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 00:08:48,772 - uvicorn.access - INFO - 127.0.0.1:51923 - "POST /api/v1/auth/token HTTP/1.1" 422
+2025-01-22 00:09:02,725 - uvicorn.access - INFO - 127.0.0.1:51932 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 00:10:07,566 - uvicorn.access - INFO - 127.0.0.1:51961 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 00:19:59,180 - uvicorn.access - INFO - 127.0.0.1:52357 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 00:26:55,046 - uvicorn.access - INFO - 127.0.0.1:52684 - "POST /api/v1/detection/detect/video HTTP/1.1" 401
+2025-01-22 00:26:59,788 - uvicorn.access - INFO - 127.0.0.1:52684 - "GET /docs HTTP/1.1" 200
+2025-01-22 00:26:59,965 - uvicorn.access - INFO - 127.0.0.1:52684 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 00:27:23,269 - uvicorn.access - INFO - 127.0.0.1:52709 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 00:27:44,695 - uvicorn.access - INFO - 127.0.0.1:52727 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 00:28:16,887 - uvicorn.access - INFO - 127.0.0.1:52736 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 00:32:12,864 - uvicorn.access - INFO - 127.0.0.1:52946 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 00:36:22,374 - uvicorn.access - INFO - 127.0.0.1:53289 - "POST /api/v1/detection/detect/youtube?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOouUgFMkMD0 HTTP/1.1" 500
+2025-01-22 00:47:16,575 - uvicorn.access - INFO - 127.0.0.1:53886 - "GET /docs HTTP/1.1" 200
+2025-01-22 00:47:16,883 - uvicorn.access - INFO - 127.0.0.1:53886 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 00:47:39,753 - uvicorn.access - INFO - 127.0.0.1:53905 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 00:47:56,570 - uvicorn.access - INFO - 127.0.0.1:53929 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 00:48:43,061 - uvicorn.access - INFO - 127.0.0.1:53950 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 00:51:40,666 - uvicorn.access - INFO - 127.0.0.1:54210 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 00:59:31,189 - uvicorn.access - INFO - 127.0.0.1:56723 - "GET /docs HTTP/1.1" 200
+2025-01-22 00:59:31,681 - uvicorn.access - INFO - 127.0.0.1:56723 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 00:59:55,456 - uvicorn.access - INFO - 127.0.0.1:56751 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:00:08,369 - uvicorn.access - INFO - 127.0.0.1:56775 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:00:23,646 - uvicorn.access - INFO - 127.0.0.1:56784 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 01:03:46,867 - uvicorn.access - INFO - 127.0.0.1:56934 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 01:13:24,270 - uvicorn.access - INFO - 127.0.0.1:55837 - "GET /docs HTTP/1.1" 200
+2025-01-22 01:13:24,530 - uvicorn.access - INFO - 127.0.0.1:55837 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 01:13:41,300 - uvicorn.access - INFO - 127.0.0.1:55849 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:13:55,097 - uvicorn.access - INFO - 127.0.0.1:55863 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:14:29,372 - uvicorn.access - INFO - 127.0.0.1:55875 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 01:17:39,937 - uvicorn.access - INFO - 127.0.0.1:55989 - "POST /api/v1/detection/detect/video HTTP/1.1" 500
+2025-01-22 01:25:19,449 - uvicorn.error - INFO - Started server process [1372]
+2025-01-22 01:25:19,452 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-22 01:25:19,478 - uvicorn.error - INFO - Application startup complete.
+2025-01-22 01:25:19,482 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-22 01:25:24,898 - uvicorn.access - INFO - 127.0.0.1:52674 - "GET /docs HTTP/1.1" 200
+2025-01-22 01:25:25,217 - uvicorn.access - INFO - 127.0.0.1:52675 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 01:25:54,100 - uvicorn.access - INFO - 127.0.0.1:52689 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:26:07,800 - uvicorn.access - INFO - 127.0.0.1:57925 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:30:06,081 - uvicorn.access - INFO - 127.0.0.1:57939 - "POST /api/v1/detection/detect/video HTTP/1.1" 200
+2025-01-22 01:38:11,114 - uvicorn.access - INFO - 127.0.0.1:55625 - "POST /api/v1/detection/detect/youtube?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbMOVv6RUS64 HTTP/1.1" 500
+2025-01-22 01:38:42,579 - uvicorn.access - INFO - 127.0.0.1:55685 - "POST /api/v1/detection/detect/youtube?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbMOVv6RUS64 HTTP/1.1" 500
+2025-01-22 01:42:37,049 - uvicorn.access - INFO - 127.0.0.1:55906 - "GET /docs HTTP/1.1" 200
+2025-01-22 01:42:37,334 - uvicorn.access - INFO - 127.0.0.1:55906 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 01:42:56,947 - uvicorn.access - INFO - 127.0.0.1:55921 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:43:11,633 - uvicorn.access - INFO - 127.0.0.1:55933 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:45:43,531 - uvicorn.access - INFO - 127.0.0.1:56081 - "POST /api/v1/detection/detect/youtube?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgNOEUbqkGUM HTTP/1.1" 500
+2025-01-22 01:45:51,919 - uvicorn.access - INFO - 127.0.0.1:56091 - "POST /api/v1/detection/detect/youtube?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgNOEUbqkGUM HTTP/1.1" 500
+2025-01-22 01:46:19,222 - uvicorn.error - INFO - Shutting down
+2025-01-22 01:46:19,331 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-22 01:46:19,332 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-22 01:46:19,332 - uvicorn.error - INFO - Finished server process [1372]
+2025-01-22 01:46:32,028 - uvicorn.error - INFO - Started server process [20200]
+2025-01-22 01:46:32,028 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-22 01:46:32,034 - uvicorn.error - INFO - Application startup complete.
+2025-01-22 01:46:32,035 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-22 01:46:34,688 - uvicorn.access - INFO - 127.0.0.1:56133 - "GET /docs HTTP/1.1" 200
+2025-01-22 01:46:34,914 - uvicorn.access - INFO - 127.0.0.1:56133 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 01:46:55,370 - uvicorn.access - INFO - 127.0.0.1:56157 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:47:11,026 - uvicorn.access - INFO - 127.0.0.1:63062 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 01:48:58,174 - uvicorn.access - INFO - 127.0.0.1:63074 - "POST /api/v1/detection/detect/youtube?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgNOEUbqkGUM HTTP/1.1" 500
+2025-01-22 01:48:58,175 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 187, in __call__
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\contextlib.py", line 222, in __aexit__
+    await self.gen.athrow(typ, value, traceback)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 35, in contextmanager_in_threadpool
+    raise e
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 27, in contextmanager_in_threadpool
+    yield await run_in_threadpool(cm.__enter__)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 327, in app
+    content = await serialize_response(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 176, in serialize_response
+    raise ResponseValidationError(
+fastapi.exceptions.ResponseValidationError: 2 validation errors:
+  {'type': 'int_type', 'loc': ('response', 'id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 'detection_time'), 'msg': 'Input should be a valid datetime', 'input': None}
+
+2025-01-22 01:55:02,614 - uvicorn.access - INFO - 127.0.0.1:63281 - "POST /api/v1/detection/detect/video HTTP/1.1" 200
+2025-01-22 01:56:47,284 - uvicorn.access - INFO - 127.0.0.1:63110 - "POST /api/v1/detection/detect/image HTTP/1.1" 500
+2025-01-22 02:00:08,135 - uvicorn.error - INFO - Shutting down
+2025-01-22 02:00:08,245 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-22 02:00:08,245 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-22 02:00:08,246 - uvicorn.error - INFO - Finished server process [20200]
+2025-01-22 02:11:50,044 - uvicorn.error - INFO - Started server process [25268]
+2025-01-22 02:11:50,044 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-22 02:11:50,050 - uvicorn.error - INFO - Application startup complete.
+2025-01-22 02:11:50,051 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-22 02:12:11,896 - uvicorn.access - INFO - 127.0.0.1:55089 - "GET /docs HTTP/1.1" 200
+2025-01-22 02:12:12,139 - uvicorn.access - INFO - 127.0.0.1:55089 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 02:12:35,079 - uvicorn.access - INFO - 127.0.0.1:55102 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 02:12:53,393 - uvicorn.access - INFO - 127.0.0.1:55116 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 02:13:07,416 - uvicorn.access - INFO - 127.0.0.1:55126 - "POST /api/v1/detection/detect/image HTTP/1.1" 200
+2025-01-22 02:17:26,634 - uvicorn.access - INFO - 127.0.0.1:55178 - "POST /api/v1/detection/detect/video HTTP/1.1" 200
+2025-01-22 02:24:21,682 - uvicorn.access - INFO - 127.0.0.1:55540 - "POST /api/v1/detection/detect/youtube?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTusOk8GSf1M HTTP/1.1" 500
+2025-01-22 02:24:21,683 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 187, in __call__
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\contextlib.py", line 222, in __aexit__
+    await self.gen.athrow(typ, value, traceback)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 35, in contextmanager_in_threadpool
+    raise e
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\concurrency.py", line 27, in contextmanager_in_threadpool
+    yield await run_in_threadpool(cm.__enter__)
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 327, in app
+    content = await serialize_response(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samir\AdVisionAI\venv\Lib\site-packages\fastapi\routing.py", line 176, in serialize_response
+    raise ResponseValidationError(
+fastapi.exceptions.ResponseValidationError: 2 validation errors:
+  {'type': 'int_type', 'loc': ('response', 'id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 'detection_time'), 'msg': 'Input should be a valid datetime', 'input': None}
+
+2025-01-22 02:29:07,255 - uvicorn.error - INFO - Shutting down
+2025-01-22 02:29:07,366 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-22 02:29:07,366 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-22 02:29:07,367 - uvicorn.error - INFO - Finished server process [25268]
+2025-01-22 02:40:46,514 - uvicorn.error - INFO - Started server process [33696]
+2025-01-22 02:40:46,515 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-22 02:40:46,523 - uvicorn.error - INFO - Application startup complete.
+2025-01-22 02:40:46,524 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-01-22 02:40:49,147 - uvicorn.access - INFO - 127.0.0.1:56071 - "GET /docs HTTP/1.1" 200
+2025-01-22 02:40:49,478 - uvicorn.access - INFO - 127.0.0.1:56071 - "GET /openapi.json HTTP/1.1" 200
+2025-01-22 02:41:16,269 - uvicorn.access - INFO - 127.0.0.1:51200 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 02:41:31,062 - uvicorn.access - INFO - 127.0.0.1:51208 - "POST /api/v1/auth/token HTTP/1.1" 200
+2025-01-22 02:43:37,838 - uvicorn.access - INFO - 127.0.0.1:51245 - "POST /api/v1/detection/detect/youtube?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTusOk8GSf1M HTTP/1.1" 200

@@ -1,0 +1,42 @@
+=== Metricas del Modelo Mejorado ===
+
+Metricas Generales:
+mAP50: 0.623
+mAP50-95: 0.332
+
+Metricas por Clase:
+
+Bershka:
+  mAP50: 0.268
+  Precision: 0.942
+  Recall: 0.125
+
+Corte Ingles:
+  mAP50: 0.836
+  Precision: 0.649
+  Recall: 0.758
+
+Desigual:
+  mAP50: 0.342
+  Precision: 1.000
+  Recall: 0.075
+
+Mango:
+  mAP50: 0.711
+  Precision: 0.596
+  Recall: 0.588
+
+Stradivarius:
+  mAP50: 0.802
+  Precision: 0.740
+  Recall: 0.768
+
+Women Secret:
+  mAP50: 0.513
+  Precision: 0.765
+  Recall: 0.367
+
+Zara:
+  mAP50: 0.885
+  Precision: 0.817
+  Recall: 0.893
